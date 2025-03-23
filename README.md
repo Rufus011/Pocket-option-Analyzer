@@ -1,7 +1,18 @@
+<!-- Animated Header for GitHub README -->
 <div align="center">
-  <h1>🚀 Pocket Option Analyzer</h1>
-  <p><strong>Advanced Trading Analysis Tool for Pocket Option</strong></p>
-  <img src="https://github.com/Rufus011/Pocket-option-Analyzer/raw/main/screenshot.png" alt="Pocket Option Analyzer Screenshot" width="600"/>
+  
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=%F0%9F%9A%80+Pocket+Option+Analyzer;Trade+Smarter%2C+Not+Harder" alt="Pocket Option Analyzer Animated Title" />
+  </h1>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9370DB&center=true&vCenter=true&random=false&width=600&height=60&lines=Advanced+Trading+Analysis+Tool;Real-time+Market+Data;AI-Driven+Recommendations;Technical+Indicators" alt="Pocket Option Analyzer Features" />
+  </p>
+  <!-- Animated Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=4B0082" alt="Python Version">
+    <img src="https://img.shields.io/badge/AI_Powered-Neural_Network-blueviolet?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=4B0082" alt="AI Powered">
+    <img src="https://img.shields.io/badge/WebSocket-Real_Time-8A2BE2?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=4B0082" alt="WebSocket">
+  </p>
 </div>
 
 ---
@@ -16,7 +27,7 @@ This is an **original, authorial product** created by **@romis_111**. The tool i
 
 ## ✨ Features
 
-- **Real-Time Market Data**: Connects to live market feeds via WebSocket to fetch and display data for the GBPCAD symbol.
+- **Real-Time Market Data**: Connects to live market feeds via WebSocket to fetch and display data for the Forex symbol.
 - **Candle Buffer**: Tracks and buffers candlestick data for analysis.
 - **Technical Indicators**: Displays key indicators to help identify market trends.
 - **AI Trading Recommendations**: Provides AI-driven signals with confidence levels and expiration times.
@@ -45,44 +56,13 @@ This is an **original, authorial product** created by **@romis_111**. The tool i
   - `pytz`
   - `dataclasses` (included in Python 3.7+)
 
-### Steps
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rufus011/Pocket-option-Analyzer.git
-   cd Pocket-option-Analyzer
-   ```
-
-2. Create a virtual environment (recommended):
-   ```bash
-   python -m venv venv
-   ```
-
-3. Activate the virtual environment:
-   - Windows:
-     ```bash
-     venv\Scripts\activate
-     ```
-   - macOS/Linux:
-     ```bash
-     source venv/bin/activate
-     ```
-
-4. Install required packages:
-   ```bash
-   pip install websocket-client pytz
-   ```
-
-5. Launch the application:
-   ```bash
-   python main.py
-   ```
 
 ---
 
 ## 🔧 Configuration
 
-The tool comes pre-configured for the GBPCAD symbol, but you can modify the following settings in the `config.py` file:
+The tool comes pre-configured for the Forex symbol, but you can modify the following settings in the `config.py` file:
 
 - Trading pair/symbol
 - Technical indicator parameters
@@ -94,14 +74,7 @@ The interface features smooth animations for data updates, signal alerts, and ma
 
 ---
 
-## 💡 Usage Guide
 
-1. **Launch the application**: Run `main.py` to start the analyzer.
-2. **Monitor real-time data**: The main display shows current market data for GBPCAD.
-3. **Check indicators**: Review the technical indicators section for trend analysis.
-4. **Trading signals**: Look for AI-generated trading recommendations in the signals panel.
-5. **Market sessions**: Track which major market sessions are currently active.
-6. **Performance metrics**: Monitor system performance in the bottom section.
 
 ---
 
@@ -168,7 +141,7 @@ For support, bug reports, or feature requests, please contact:
 
 ## 📜 License
 
-© 2023 @romis_111. All rights reserved.
+© 2025 @romis_111. All rights reserved.
 This software is provided for personal use only. Redistribution or commercial use without permission is prohibited.
 
 ---
