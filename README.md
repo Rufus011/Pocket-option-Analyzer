@@ -40,7 +40,7 @@ This is an **original, authorial product** created by **@romis_111**. The tool i
 ## 🖼️ Screenshot
 
 <div align="center">
-  <img src="https://github.com/Rufus011/Pocket-option-Analyzer/raw/main/screenshot.png" alt="Pocket Option Analyzer Interface" width="500"/>
+  <img src="https://github.com/Rufus011/Pocket-option-Analyzer/raw/main/screenshot1.png" alt="Pocket Option Analyzer Interface" width="500"/>
 </div>
 
 ---
